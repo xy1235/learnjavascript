@@ -1,0 +1,3 @@
+div.taobao>ul>li*3
+
+div#banner>ul>(li>img[src=img/banner$.jpg])*6
